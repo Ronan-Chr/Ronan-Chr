@@ -193,7 +193,7 @@ Building a campus community that discusses culture while making a network.
   <td><strong>Fans</strong></td>
   <td>10x Lian Li Uni Fans (RGB)</td>
 </tr>
-
+</table>
 ## Links
 
 <table>
