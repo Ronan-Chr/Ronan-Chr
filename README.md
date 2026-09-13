@@ -24,6 +24,7 @@ Building a campus community that discusses culture while making a network.
 </td>
 </tr>
 </table>
+
 ---
 
 ## Education
@@ -79,8 +80,6 @@ Building a campus community that discusses culture while making a network.
 </td>
 </tr>
 </table>
-
----
 
 ---
 
@@ -152,6 +151,7 @@ Building a campus community that discusses culture while making a network.
   <td>AIMHDUTY Micro USB to USB-A OTG (2-Pack); JSAUX mini-HDMI to HDMI 4k60</td>
 </tr>
 </table>
+
 ---
 
 ## My Personal Rig 
@@ -194,6 +194,7 @@ Building a campus community that discusses culture while making a network.
   <td>10x Lian Li Uni Fans (RGB)</td>
 </tr>
 </table>
+
 ## Links
 
 <table>
