@@ -154,6 +154,47 @@ Building a campus community that discusses culture while making a network.
 </table>
 ---
 
+## My Personal Rig 
+
+<table>
+<tr>
+  <td width="150"><strong>CPU</strong></td>
+  <td>Intel Corei9-9900k</td>
+</tr>
+<tr>
+  <td><strong>CPU Cooler</strong></td>
+  <td>NZXT Kraken 360mm (V1)</td>
+</tr>
+<tr>
+  <td><strong>Motherboard</strong></td>
+  <td>ASUS ROG Maximus XI (Z390)</td>
+</tr>
+<tr>
+  <td><strong>GPU</strong></td>
+  <td>NVIDIA ASUS GeForce RTX 3080</td>
+</tr>
+<tr>
+  <td><strong>RAM</strong></td>
+  <td>Corsair Vengeance 64gb (4x 16gb) 3600MHz</td>
+</tr>
+<tr>
+  <td><strong>Storage</strong></td>
+  <td>Samsung 990 Pro 4Tb NVMe + Seagate 2TB HDD</td>
+</tr>
+<tr>
+  <td><strong>PSU</strong></td>
+  <td>Corsair RM850 (850W 80+ Gold Rating)</td>
+</tr>
+<tr>
+  <td><strong>Case</strong></td>
+  <td>Lian Li O11 Dynamic Evo Plus</td>
+</tr>
+<tr>
+  <td><strong>Fans</strong></td>
+  <td>10x Lian Li Uni Fans (RGB)</td>
+</tr>
+---
+
 ## Links
 
 <table>
