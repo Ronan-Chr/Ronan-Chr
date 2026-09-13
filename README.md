@@ -32,7 +32,7 @@ Building a campus community that discusses culture while making a network.
 <tr>
 <td width="10%" valign="middle"> <img src="images/CentLogo.svg" width="40"/> </td>
 <td width="25%"><strong>Centenary University</strong></td>
-<td width="75%">B.S. Computer Science (Junior)</td>
+<td width="75%">B.S. Computer Science (Senior)</td>
 </tr>
 <tr>
 <td width="10%" valign="middle"><img src="images/Sccclogo.jfif" width="40"/></td>
@@ -61,6 +61,7 @@ Building a campus community that discusses culture while making a network.
 
 <strong>Programming</strong>
 
+- R
 - Python  
 - C++  
 - Java  
