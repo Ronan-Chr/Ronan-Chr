@@ -81,6 +81,78 @@ Building a campus community that discusses culture while making a network.
 
 ---
 
+---
+
+## My Home lab 
+
+<table>
+<tr>
+  <td width="150"><strong>Host</strong></td>
+  <td>Minisforum MS-A2</td>
+</tr>
+<tr>
+  <td><strong>CPU</strong></td>
+  <td>AMD Ryzen 9 9955HX </td>
+</tr>
+<tr>
+  <td><strong>RAM</strong></td>
+  <td>2x 48gb SODIMM 5600MHz DDR5</td>
+</tr>
+<tr>
+  <td><strong>Storage</strong></td>
+  <td>2x Samsung 990 Evo Plus 4tb NVME m.2 (Proxmox is in 1)</td>
+</tr>
+<tr>
+  <td><strong>Rack</strong></td>
+  <td>Deskpi Rackmate T1</td>
+</tr>
+<tr>
+  <td><strong>Shelf</strong></td>
+  <td>GeeekPI 10&quot; 0.5U vented rack shelf</td>
+</tr>
+<tr>
+  <td><strong>PDU</strong></td>
+  <td>NodeQore 10&quot; 2U, 7x NEMA 5-15, 1200J Surge, 15A</td>
+</tr>
+<tr>
+  <td><strong>Switch</strong></td>
+  <td>TP-Link Omada ES210X-M2</td>
+</tr>
+<tr>
+  <td><strong>Patch Panel</strong></td>
+  <td>GeeekPI 10&quot; 0.5U 12-Port blank keystone</td>
+</tr>
+<tr>
+  <td><strong>Display</strong></td>
+  <td>7.84&quot; 1280&times; 400 IPS 2U rack-mounted touchscreen</td>
+</tr>  
+<tr>
+  <td><strong>Raspberry Pi</strong></td>
+  <td>Raspberry Pi Zero 2 WH (Heatsink, GPIO Headers, Adapters)</td>
+</tr>
+<tr>
+  <td><strong>Pi Boot Media</strong></td>
+  <td>Sandisk 128GB MicroSDXC UHS-I U3 V30</td>
+</tr>
+<tr>
+  <td><strong>Networking</strong></td>
+  <td>10Gtek 10G SFP+ DAC, 0.25m passive twinax</td>
+</tr>
+<tr>
+  <td><strong>Couplers</strong></td>
+  <td>VCE Cat6A shielded RJ45 keystone couplers (F/F, 10G)</td>
+</tr>
+<tr>
+  <td><strong>CAT Cables</strong></td>
+  <td>Rapink Cat6a slim patch, 0.5ft, snagless, 10G (24 Pack)</td>
+</tr>
+<tr>
+  <td><strong>Adapters</strong></td>
+  <td>AIMHDUTY Micro USB to USB-A OTG (2-Pack); JSAUX mini-HDMI to HDMI 4k60</td>
+</tr>
+</table>
+---
+
 ## Links
 
 <table>
