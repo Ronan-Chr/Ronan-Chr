@@ -15,6 +15,15 @@ Building a campus community focused on practical technical development (Git, SQL
 </tr>
 </table>
 
+<table>
+<tr>
+<td width="25%" valign="top"><strong>Hoops and Culture Club</strong></td>
+<td width="75%">
+Member — Centenary University  
+Building a campus community that discusses culture while making a network.
+</td>
+</tr>
+</table>
 ---
 
 ## Education
