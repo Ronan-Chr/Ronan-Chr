@@ -44,7 +44,7 @@ Building a campus community that discusses culture while making a network.
 
 ---
 
-## Technical Work
+## Technolgies and Tools
 
 <table>
 <tr>
